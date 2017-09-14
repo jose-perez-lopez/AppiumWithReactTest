@@ -5,4 +5,4 @@ Feature: Hello
 
   Scenario: User sees the welcome message
     When I open the app
-    Then I should see the welcome message saing 'Hi.'
+    Then I should see the welcome message saying 'Hi.'
